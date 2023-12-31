@@ -9,7 +9,7 @@ const Avatar = () => {
         source={ProfileImg}
         style={{ width: 120, height: 120, borderRadius: 15 }}
       />
-      <Text style={styles.name}>Aminatou Jallow</Text>
+      <Text style={styles.name}>Daddy Omar Jeng</Text>
       <Text style={styles.address}>Banjul, The Gambia</Text>
     </View>
   );
